@@ -5,11 +5,11 @@
     routes: {
       home: "/",
       product: "/#product",
-      privacy: "/privacy/index.html",
-      terms: "/terms/index.html",
-      support: "/support/index.html",
-      arbitration: "/arbitration/index.html",
-      about: "/about/index.html",
+      privacy: "/privacy/",
+      terms: "/terms/",
+      support: "/support/",
+      arbitration: "/arbitration/",
+      about: "/about/",
     },
   };
 
